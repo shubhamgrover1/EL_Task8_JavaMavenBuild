@@ -27,8 +27,3 @@ This repository contains a simple Java HelloWorld application built using Maven 
 ## Outcome
 This project demonstrates the use of Jenkins to automate the building of a Java Maven project, including understanding Jenkins jobs, build triggers, and console output reading.
 
----
-
-Feel free to customize the README if you want! When ready, add this file to your repo and push it.
-
-Want me to generate the full content ready for your repo?
